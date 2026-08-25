@@ -15,7 +15,7 @@ function App() {
         <div className="info">
           <div>
             <span>Student</span>
-            <strong>Dhruv More The Hero</strong>
+            <strong>Dhruv Sandeep More</strong>
           </div>
           <div>
             <span>Service</span>
